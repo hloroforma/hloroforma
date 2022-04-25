@@ -1,5 +1,7 @@
 i am a sad man and i make bad programs
 
+my programming skills are horrible. feel free to steal my code
+
 
 <!---
 - 👋 Hi, I’m GitHub user @hloroforma.
