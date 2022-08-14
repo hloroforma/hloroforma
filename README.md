@@ -1,6 +1,10 @@
-i am a sad man and i make bad programs
+## who
+i am a sad man and i make bad programs. that's pretty much it
 
+## what
 my programming skills are horrible. feel free to steal my code
+
+i enjoy working on small projects, just to sharpen my skills. programming, to me, is just a hobby ~~but who knows? maybe one day i'll be doing that for a living~~
 
 
 <!---
