@@ -1,6 +1,8 @@
 ## who
 i am a sad man and i make bad programs. that's pretty much it
 
+jokes aside, my name is elias, but sometimes i use the name iiro kaijomaa. i'm also on <a href="https://notabug.org/viikatemies">notabug</a>
+
 ## what
 my programming skills are horrible. feel free to steal my code
 
